@@ -29,7 +29,9 @@ Main Skills:
 - Node.js, Express.js, Hapi.js
 - PHP, Wordpress, Laravel, Shopify, Yii, Symfony, Mangeto
 - MongoDB, Mysql, PostgreSQL, DynamoDB, Google Apps
-- AWS, DigitalOcean, Heroku 
+- AWS, DigitalOcean, Heroku
+- Adobe Illustrator, Adobe XD, Figma.
+  
 
 I'm full time developer. Please contact me at james950716@gmail.com
 
